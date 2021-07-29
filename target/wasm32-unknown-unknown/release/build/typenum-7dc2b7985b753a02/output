@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/christophediprima/Projects/dfinity_dip_test/target/wasm32-unknown-unknown/release/build/typenum-7dc2b7985b753a02/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/christophediprima/Projects/dfinity_dip_test/target/wasm32-unknown-unknown/release/build/typenum-7dc2b7985b753a02/out/op.rs

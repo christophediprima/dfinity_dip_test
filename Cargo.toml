@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "src/dfinity_dip_test",
+]
